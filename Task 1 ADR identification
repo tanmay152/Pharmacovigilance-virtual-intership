@@ -1,0 +1,29 @@
+# TASK 1: ADR Identification Basics
+
+### 1. Patient Information
+
+* **Age/Sex:** 45-year-old female
+* **Presenting symptoms:** Skin rash, itching, nausea, and dizziness.
+
+### 2. Medication History
+
+* **Amoxicillin:** Started 5 days ago.
+* **Paracetamol:** Taken as needed.
+
+### 3. Timeline Analysis
+
+* **Day -5:** Amoxicillin treatment started.
+* **Day -2:** Symptoms appeared.
+* **Day 0:** Symptoms persist.
+
+### 4. Suspected Adverse Drug Reaction
+
+The patient's symptoms are suggestive of a possible drug-induced hypersensitivity reaction.
+
+**Suspected drug:** Amoxicillin.
+
+**Reasoning:** The patient developed a rash, itching, nausea, and dizziness after starting amoxicillin. The timing and symptoms support a possible association with amoxicillin, particularly an allergic reaction. However, the relationship cannot be confirmed from the timeline alone, and other causes or medications must also be considered.
+
+### 5. Conclusion
+
+The suspected ADR is an amoxicillin-associated hypersensitivity reaction. The patient should receive prompt medical assessment, and the suspected medication should be reviewed by a healthcare professional. If dizziness is severe or accompanied by breathing difficulty, swelling of the face or throat, or fainting, emergency medical care is required.
