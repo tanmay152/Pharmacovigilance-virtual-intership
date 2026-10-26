@@ -1,0 +1,48 @@
+# ADR REPORTING FORM
+
+## 1. Patient Information
+
+| Field            | Details      |
+| ---------------- | ------------ |
+| Patient initials | Not provided |
+| Age              | 45 years     |
+| Gender           | Female       |
+
+## 2. Suspected Medicine
+
+| Field                   | Details                                   |
+| ----------------------- | ----------------------------------------- |
+| Medicine name           | Amoxicillin                               |
+| Dose                    | Not provided                              |
+| Route of administration | Not provided                              |
+| Start date              | Day -5 (exact calendar date not provided) |
+| Other medication        | Paracetamol, taken as needed              |
+
+## 3. Adverse Reaction
+
+| Field            | Details                                                  |
+| ---------------- | -------------------------------------------------------- |
+| Reaction/Event   | Skin rash, itching, nausea, and dizziness                |
+| Date of onset    | Day -2 (approximately 3 days after starting amoxicillin) |
+| Date of recovery | Not recovered at Day 0; symptoms persist                 |
+| Outcome          | Not recovered                                            |
+| Seriousness      | Undetermined; requires clinical assessment               |
+
+## 4. Reporter Information
+
+| Field                  | Details                         |
+| ---------------------- | ------------------------------- |
+| Name                   | To be completed by the reporter |
+| Designation            | To be completed by the reporter |
+| Contact                | To be provided by the reporter  |
+| Healthcare institution | To be provided by the reporter  |
+
+## 5. Additional Information
+
+The patient is a 45-year-old female who developed a skin rash, itching, nausea, and dizziness after starting amoxicillin approximately five days earlier. Symptoms reportedly began around Day -2 and persisted until Day 0. The patient also takes paracetamol as needed.
+
+Amoxicillin is the suspected medicine because the onset and symptoms are compatible with a possible drug-induced hypersensitivity reaction. However, the causal relationship has not been confirmed, and the contribution of other medicines or underlying conditions cannot be excluded.
+
+The patient requires prompt clinical evaluation. Severe dizziness, fainting, breathing difficulty, or swelling of the face, lips, or throat requires emergency medical attention.
+
+**Final assessment:** Suspected amoxicillin-associated adverse drug reaction. Further clinical assessment and medication-history review are required to establish causality and determine seriousness.
